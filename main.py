@@ -43,7 +43,7 @@ def problem_6( ):
     execution_time  =  ( end_time - start_time ) * 1000
 
     # Display Results
-    print( "   Difference between the sum of squares and the square of sums of first 100 natural numbers:   %d" % result )
+    print( "   Difference between the sum of squares and the square of sums of first 100 natural numbers:   %d"     % result )
     print( "   Computation Time:                                                                            %.3fms" % execution_time)
     return
 
